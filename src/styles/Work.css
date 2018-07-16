@@ -1,0 +1,10 @@
+.page-container {
+  max-width: 800px;
+  width: 800px;
+  align-content: center;
+  margin: auto;
+}
+
+.list-style {
+  list-style-type: none;
+}
