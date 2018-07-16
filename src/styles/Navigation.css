@@ -1,5 +1,5 @@
 .button-style {
-  background-color: lightblue;
+  background-color: rgb(58, 145, 174);
   color: white;
   padding: 2% 4%;
   text-align: center;
@@ -10,7 +10,7 @@
 }
 
 .button-style:hover {
-  background-color: #008cba;
+  background-color: #036180;
   color: white;
   text-decoration: none;
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),

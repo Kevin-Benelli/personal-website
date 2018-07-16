@@ -11,7 +11,7 @@ class About extends Component {
             <ul>
               <li>
                 <strong>Programming:</strong> JavaScript, C++, HTML, CSS,
-                ReactJS, linux/unix Bash/Shell Scripts
+                ReactJS, Linux, Unix, Bash, Shell
               </li>
 
               <li>
@@ -25,7 +25,9 @@ class About extends Component {
           </div>
 
           <div className="sub-category">
-            <h1 className="header-format">Education</h1>
+            <div className="header-format">
+              <h1>Education</h1>
+            </div>
             <p>UC Davis, Computer Science</p>
             <p>
               Santa Rosa Junior College, Computer Science/Mathematics (3.60 GPA)
@@ -39,7 +41,9 @@ class About extends Component {
           </div>
 
           <div className="sub-category">
-            <h2 className="header-format">Hobbies</h2>
+            <h1 className="header-format">Hobbies</h1>
+            <p> Raspberry Pi Programming</p>
+            <p>Computer Science Conferences</p>
             <p> Biking </p>
             <p> Tennis </p>
           </div>

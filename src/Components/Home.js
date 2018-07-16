@@ -23,24 +23,25 @@ class Home extends Component {
           </div>
         </div>
 
-        <SocialIcon url="https://www.linkedin.com/in/kevinbenelli/" />
-        <SocialIcon
-          network="facebook"
-          url="https://www.facebook.com/kevin.benelli"
-        />
+        <nav className="social-link-padding">
+          <SocialIcon url="https://www.linkedin.com/in/kevinbenelli/" />
+          <SocialIcon
+            network="facebook"
+            url="https://www.facebook.com/kevin.benelli"
+          />
 
-        <SocialIcon
-          network="github"
-          color="#333"
-          url="https://github.com/Kevin-Benelli"
-        />
+          <SocialIcon
+            network="github"
+            color="#333"
+            url="https://github.com/Kevin-Benelli"
+          />
 
-        <SocialIcon
-          network="instagram"
-          color="#fb3958"
-          url="https://www.instagram.com/kbenelli707/"
-        />
-
+          <SocialIcon
+            network="instagram"
+            color="#fb3958"
+            url="https://www.instagram.com/kbenelli707/"
+          />
+        </nav>
         <div />
       </div>
     );
