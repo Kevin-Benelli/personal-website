@@ -1,3 +1,11 @@
+.header-format {
+  padding-bottom: 40px;
+}
 .sub-category {
   padding-bottom: 60px;
+}
+
+.body-text {
+  border: solid lightgray;
+  line-height: 1.6;
 }

@@ -9,11 +9,15 @@
   list-style-type: none;
 }
 
-/*
-  .body-text {
-    border: solid lightgray;
-  }
-  
+.body-text {
+  border: solid lightgray;
+  line-height: 1.6;
+}
+
+ul li {
+  padding-bottom: 20px;
+}
+/* 
   .work-experience {
     font-size: 50px;
     padding-bottom: 30px;

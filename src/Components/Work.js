@@ -16,7 +16,7 @@ class Work extends Component {
               Remot3.it: Software Engineer Intern. - June 2018 - September 2018
             </h4>
             <hr />
-            <div className="work-experience-body">
+            <div className="work-experience-body body-text">
               <ul className="list-style">
                 <li>Full time Software Engineering Internship </li>
                 <li>
@@ -46,15 +46,6 @@ class Work extends Component {
               </ul>
             </div>
           </div>
-          Programming languages: JavaScript C++, HTML, CSS, ReactJS Version
-          Control: Git, GitHub Command line, Excel Education UC Santa Cruz,
-          Computer Science View the college's website! Santa Rosa Junior College
-          (3.62 GPA) View the college's website! Piner Highschool Work
-          Experience Experience as a FullStack Software Engineer Intern (Summer
-          2018) View the company's website! Experience as a paralegal for Law
-          Offices of Steven Taxman (3 years) View the company's website!
-          Experience as a teachers assistance for SRJC English Professor (1
-          year)
         </body>
       </div>
     );
