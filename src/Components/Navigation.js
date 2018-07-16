@@ -10,15 +10,15 @@ const Navigation = () => {
         </NavLink>
 
         <NavLink to="/Work">
-          <button className="button-style">Work Experience </button>
+          <button className="button-style">Work Experience</button>
         </NavLink>
 
         <NavLink to="/About">
-          <button className="button-style">About </button>
+          <button className="button-style">About</button>
         </NavLink>
 
         <NavLink to="/Contact">
-          <button className="button-style">Contacts </button>
+          <button className="button-style">Contact</button>
         </NavLink>
       </nav>
     </div>
