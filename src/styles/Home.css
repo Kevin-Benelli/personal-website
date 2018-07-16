@@ -1,6 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
 .page-container {
   max-width: 800px;
   width: auto;
   align-content: center;
   margin: auto;
+}
+
+.title-padding {
+  padding-bottom: 70px;
+}
+
+.name-title-text {
+  font-size: 90px;
+  padding-bottom: 70px;
+}
+
+.sub-category {
+  padding-bottom: 60px;
+}
+
+.sub-title {
+  padding-top: 60px;
 }
