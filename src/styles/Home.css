@@ -5,7 +5,7 @@
 }
 
 .page-container {
-  max-width: 800px;
+  max-width: 900px;
   width: auto;
   align-content: center;
   margin: auto;
@@ -13,17 +13,20 @@
 
 .title-padding {
   padding-bottom: 70px;
+  padding-top: 60px;
 }
 
 .name-title-text {
-  font-size: 90px;
-  padding-bottom: 70px;
-}
-
-.sub-category {
-  padding-bottom: 60px;
+  font-size: 80px;
+  border-bottom: solid whitesmoke;
 }
 
 .sub-title {
   padding-top: 60px;
+  line-height: 1.6;
+  font-size: 20px;
+}
+
+.round-image {
+  border-radius: 50%;
 }

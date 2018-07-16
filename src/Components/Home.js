@@ -10,9 +10,12 @@ class Home extends Component {
     var { SocialIcon } = require("react-social-icons");
     return (
       <div>
+        <h1 className="name-title-text "> Kevin Benelli </h1>
         <div className="title-padding">
-          <h1 className="name-title-text"> Kevin Benelli </h1>
-          <img src={require("../pictures/resume-pic1.jpg")} />
+          <img
+            className="round-image"
+            src={require("../pictures/resume-pic-large.jpg")}
+          />
 
           <div className="sub-title ">
             <p>Software Engineer Intern at Remot3.it</p>
