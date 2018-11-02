@@ -14,7 +14,7 @@ class Home extends Component {
         <div className="title-padding">
           <img
             className="round-image"
-            src={require("../pictures/resume-pic-large.jpg")}
+            src={require("../pictures/resume-pic1.jpg")}
           />
 
           <div className="sub-title ">

@@ -13,37 +13,18 @@ class Work extends Component {
           <div className="body-text">
             <h3 className="sub-header">Work Experience:</h3>
             <h4 className="sub-header-child">
-              Remot3.it: Software Engineer Intern. - June 2018 - September 2018
+              <p>
+                Current: Land O' Lakes Software Developer October 2018- Current{" "}
+              </p>
+              <p>
+                {" "}
+                Past: Remot3.it: Software Engineer Intern. - June 2018 - October
+                2018
+              </p>
             </h4>
             <hr />
             <div className="work-experience-body body-text">
-              <ul className="list-style">
-                <li>Full time Software Engineering Internship </li>
-                <li>
-                  Created ReactJS administrative application prototype for the
-                  Japanese conglomerate SoftBank, to analyze data pertaining to
-                  their resold sub-companies’ device usage.
-                </li>
-                <li>
-                  Created a slideshow application in ReactJS, using an instagram
-                  API for the Sonoma Startup Workspace. I then hosted the
-                  application on a raspberry pi.
-                </li>
-
-                <li>
-                  Contributed code to fix functionality of primary remot3.it web
-                  application using HTMl, CSS, Java Script, and JQuery.
-                </li>
-
-                <li>Used Agile and Continuous software methodologies</li>
-                <li>git and Github for version control</li>
-                <li>Jira for issuing and assignment of tasks.</li>
-
-                <li>
-                  Worked with raspberry pi’s using debugging tools to test our
-                  installation software.
-                </li>
-              </ul>
+              <img src={require("../pictures/resume.jpg")} />
             </div>
           </div>
         </body>
