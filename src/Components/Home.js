@@ -6,6 +6,7 @@ import { SocialIcon } from "react-social-icons";
 
 class Home extends Component {
   render() {
+    // var { SocialIcon } = require("react-social-icons");
     return (
       <div>
         <h1 className="name-title-text "> Kevin Benelli </h1>
