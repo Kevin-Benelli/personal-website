@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "../styles/Home.css";
-import { SocialIcon } from "react-social-icons";
+//import { SocialIcon } from "react-social-icons";
+import SocialIcon from "react-social-icons";
 
 class Home extends Component {
   render() {
